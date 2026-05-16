@@ -10,9 +10,9 @@ import json
 
 # ── CONFIG ──────────────────────────────────────────────────────
 # Local Ollama — change to your Desktop Tailscale IP when ready:
-llm_base = ChatOllama(model="llama3.1:8b", base_url="http://desktop-bbjn0a3:11434")
+#llm_base = ChatOllama(model="llama3.1:8b", base_url="http://desktop-bbjn0a3:11434")
 #llm local
-#llm_base = ChatOllama(model="llama3.2:3b", base_url="http://localhost:11434")
+llm_base = ChatOllama(model="llama3.2:3b", base_url="http://localhost:11434")
 filename="test.csv"
 
 

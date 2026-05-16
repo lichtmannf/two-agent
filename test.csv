@@ -1,3 +1,4 @@
 Date,Stock,Shares,Buy Price,Call Strike,Premium,Expiry,Breakeven,Current Price,Stop Buffer,Exit Level,Max Profit ($),Return (%),Status
 2025-05-06,AI,100,21.96,23,0.3,2025-05-09,21.66,21.82,21.5,21.2,134,6.1,Open
 2025-05-06,AAL,100,10.81,11,0.16,2025-05-09,10.65,10.68,10.55,10.4,35,3.24,Open
+
